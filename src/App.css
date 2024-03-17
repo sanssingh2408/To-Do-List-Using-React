@@ -1,0 +1,42 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.inputfield{
+  background-color: rgba(255, 255, 255, 0.87);
+  border: none;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  padding: 9px 18px;
+  color: #213547;
+  font-size: 1.3em;
+}
+.butt{
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.inputdiv{
+  justify-content: center;
+  display: flex;
+  gap: 0;
+}
+.unordered_list{
+  list-style: none;
+  margin-left: 410px;
+  margin-right: 430px;
+}
+.list_itme{
+  padding: 7px;
+  justify-content: center;
+  text-align: center;
+  border: 2px solid;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.spantext{
+  line-height: 50px;
+  font-size: 1.5em;
+  margin-bottom: 0px;
+} */
